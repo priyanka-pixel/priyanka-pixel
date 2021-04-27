@@ -1,5 +1,5 @@
 - 👋 Hi, I’m a developer,analyst
-- 👀 I’m interested in data 
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me githubaccount
