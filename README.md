@@ -1,6 +1,7 @@
+   Hi, I'm Priyanka singh, currently doing projects through EdX design front end search engine
 - 👋 Hi, I’m a developer,analyst
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning code
+- 🌱 I’m currently learning coding in python and java 
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me githubaccount
 
