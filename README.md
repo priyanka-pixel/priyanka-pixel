@@ -1,4 +1,4 @@
-   Hi, I'm Priyanka singh, currently doing projects through EdX design front end search engine
+   Hi, I'm Priyanka singh
 - 👋 Hi, I’m a developer,analyst, Azure devops
 - 👀 I’m interested in data science and Azure
 - 🌱 I’m currently learning coding in python,SQL and java 
