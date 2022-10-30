@@ -5,7 +5,7 @@
 <a href="https://www.python.org/"><img src="https://th.bing.com/th/id/R.e96783742e8b45eef5b08f06cf61000b?rik=cjW8Qp%2bRGly6Pw&riu=http%3a%2f%2fwww.sitevela.com%2fposter_img2%2fdigital_marketing_solutions_p4.png&ehk=LjiCHXDZlQkZi8oEqClWOR9bw%2fhMx45rD2w932jPQdE%3d&risl=&pid=ImgRaw&r=0" align="right" height="48" width="48" ></a>
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Priyanka+Singh;+Welcome+to+My+Profile!;Over+1+years+of+programming+experience;Always+learning+new+things+;Android+Developer+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Priyanka+Singh;+Welcome+to+My+Profile!;Over+5+years+of+android+experience;Always+learning+new+things+;Android+Developer+enthusiast)](https://git.io/typing-svg)
 
 
 <!--   my-skils -->
