@@ -44,11 +44,4 @@ counting of visitors to this page in this section started from Jan 1, 2022
 [MIT](LICENSE)
  </p>
 
----
-  *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
----
-Would you ike to meet me?
-
-If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Chat about proposals and ideas.
-
 ![](assets/Bottom_down.svg)
